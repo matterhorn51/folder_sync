@@ -6,7 +6,7 @@ This is a Python script to synchronize folders.
 
 Unfortunately, the script only works on Windows so far.
 
-In providing folder paths input, kindly use a backslash ('\')
+In providing folder paths input, kindly use a backslash ('\\')
 instead of a frontslash ('/') as path separator.
 
 Also, it doesn't account for subfolders. That is, in case your
